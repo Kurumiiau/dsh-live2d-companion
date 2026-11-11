@@ -1,0 +1,9 @@
+node_modules/
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+installation-backup/
+*.before-*.js
+.env
+.env.*

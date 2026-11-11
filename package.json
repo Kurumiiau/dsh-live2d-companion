@@ -1,0 +1,37 @@
+{
+  "name": "dsh-live2d-companion",
+  "version": "1.2.0",
+  "description": "DeepSeek Live2D 看板娘：自然呼吸、长按拖拽、表情动作、对话泡泡与余额记账",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "balance",
+    "widget"
+  ],
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "assets",
+    "cordis.patch.yml",
+    "README.md",
+    "PROVENANCE.md",
+    "LICENSE",
+    "docs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kurumiiau/dsh-live2d-companion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kurumiiau/dsh-live2d-companion/issues"
+  },
+  "homepage": "https://github.com/Kurumiiau/dsh-live2d-companion",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "license": "MIT"
+}
