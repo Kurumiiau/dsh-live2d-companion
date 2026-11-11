@@ -8,10 +8,6 @@
 
 下载 Release ZIP，解压后让 Harness 安装其中的插件目录。
 
-- **单击**：Q 弹并短暂显示「＞＜」。
-- **右击**：打开菜单；点击空白处关闭。
-- **长按 0.7 秒**：拖动模型。
-
 ## 来源与署名
 
 本插件基于 **MeteorNOX** 的 [DeepSeek Balance Whale Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)（`whale-widget`），保留其气泡、音效与余额记账功能，并整合 Live2D 陪伴交互。
