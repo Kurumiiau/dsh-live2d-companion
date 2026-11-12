@@ -2,8 +2,6 @@
 
 ![DeepSeek Live2D Companion](assets/readme-cover.png)
 
-为 DeepSeek Harness 添加大肥鱼 Live2D：自然视线、深夜困倦、点击 Q 弹，以及对话气泡和余额记账。
-
 ## 使用
 
 下载 Release ZIP，解压后让 Harness 安装其中的插件目录。
